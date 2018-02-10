@@ -34,12 +34,6 @@
 	</li>
 <?php endif; ?>
 
-	<li class="et-social-icon et-social-linkedin">
-		<a href="https://www.linkedin.com/in/YOUR-PROFILE/" class="icon">
-			<span><?php esc_html_e( 'linkedin', 'Divi' ); ?></span>
-		</a>
-	</li>
-
 	<li class="custom-social-icon icon-xing2">
 		<a href="https://www.xing.com/profile/YOUR-PROFILE" class="icon">
 			<span><?php esc_html_e( '', 'Divi' ); ?></span>
