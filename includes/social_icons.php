@@ -35,8 +35,8 @@
 <?php endif; ?>
 
 	<li class="custom-social-icon icon-xing2">
-		<a href="https://www.xing.com/profile/YOUR-PROFILE" class="icon">
-			<span><?php esc_html_e( '', 'Divi' ); ?></span>
+		<a href="https://www.xing.com/profile/Firstname-Lastname" class="icon">
+			<span><?php esc_html_e( 'x', 'Divi' ); ?></span>
 		</a>
 	</li>
 
